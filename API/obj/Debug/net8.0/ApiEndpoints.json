@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "API.Controllers.APIController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "api/user/authenticate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.APIController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/user/generateToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
